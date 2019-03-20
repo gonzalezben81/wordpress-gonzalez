@@ -4,7 +4,7 @@ post_title: Gonzalez Analytics
 author: ben
 post_excerpt: ""
 layout: page
-permalink: http://www.gonzostats.us/
+permalink: https://www.gonzostats.us/
 published: true
 post_date: 2018-11-06 15:46:05
 ---
